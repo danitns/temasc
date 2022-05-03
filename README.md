@@ -1,1 +1,1 @@
-# temasc
+# tema arhitectura sistemelor de calcul
