@@ -1,1 +1,1 @@
-# tema arhitectura sistemelor de calcul
+# Tema arhitectura sistemelor de calcul
