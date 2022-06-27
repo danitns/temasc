@@ -5,4 +5,4 @@ componente:
 - ecran lcd 16 x 2
 - arduino uno 
 
-[img](./img/Screenshot%202022-06-27%20161132.png)
+![img](./img/Screenshot%202022-06-27%20161132.png)
